@@ -1,0 +1,110 @@
+1.ศูนย์ภูมิภาคเทคโนโลยีอวกาศและภูมิสารสนเทศ ภาคตะวันออกเฉียงเหนือ จัดการประชุมเชิงปฏิบัติการ "GeospatialLife Long Learning"
+วันที่ 9 มีนาคม 2563 ศูนย์ภูมิภาคเทคโนโลยีอวกาศและภูมิสารสนเทศ ภาคตะวันออกเฉียงเหนือ จัดการประชุมเชิงปฏิบัติการ "GeospatialLife Long Learning" ณ ห้องโซมิน่า โรงแรมโซเทลขอนแก่น อำเภอเมือง จังหวัดขอนแก่น โดยมี รศ.นพ.ชาญชัย พานทองวิริยะกุล รักษาการแทน อธิการบดีมหาวิทยาลัยขอนแก่น ให้เกียรติกล่าวเปิดงาน และรับมอบกระเช้าแสดงความขอบคุณจาก ดร.อานนท์ สนิทวงศ์ ณ อยุธยา ผู้อำนวยการสำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) ทั้งนี้ได้มีแขกผู้มีเกียรติเข้าร่วมงานได้แก่ ผศ.สมเกียรติ ศรีจารนัย คณบดีคณะวิทยาศาสตร์ ผศ.ดร.อุราวรรณ จันทร์เกษ ผอ.ศูนย์ภูมิสารสนเทศเพื่อการพัฒนาภาคตะวันออกเฉียงเหนือ มข. ในโอกาสนี้ ผศ.ดร.สิรภัทร เชี่ยวชาญวัฒนา หัวหน้าสาขาวิชาวิทยาการคอมพิวเตอร์ได้บรรยายพิเศษ เรื่องการพัฒนาหลักสูตรในรูปแบบ Second Degree
+---------------------------
+2.คณาจารย์และนักศึกษาเข้าร่วมประชุมวิชาการ KST 2020
+วันที่ 29 - 31 มกราคม 2563 คณาจารย์สาขาวิชาวิทยาการคอมพิวเตอร์ เข้าร่วมเป็นกรรมการและร่วมประชุมวิชาการ 2020 – 12th International Conference on Knowledge and Smart Technology (KST 2020) ณ โรงแรมอมารี พัทยา, จังหวัดชลบุรี โดยได้นำนักศึกษาหลักสูตรวิทยาศาสตรมหาบัณฑิต และดุษฎีบัณฑิต เข้าร่วมนำเสนอผลงานในงานประชุมวิชาการครั้งนี้ด้วย
+---------------------------
+3.ขอเเสดงความยินดีกับทีมผู้สมัครเข้าแข่งขันการแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 18
+
+ภาควิชาวิทยาการคอมพิวเตอร์ ขอเเสดงความยินดีกับทีมผู้สมัครเข้าแข่งขันการแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 18
+(The Eighteenth National Software Contest: NSC 2016) ทั้งนี้ภาควิชาฯมีทีมที่ผ่านเข้ารอบชิงชนะเลิศ และทีมที่ได้รับทุนรางวัลรอบที่สอง(ทุนสนับสนุนจำนวน 9,000 บาท) ดังรายชื่อต่อไปนี้
+ 
+
+1. ผ่านเข้ารอบชิงชนะเลิศ
+(1) สื่อการสอนเพื่อพัฒนาทักษะการเขียนโปรแกรมด้วย Kodu Game Lab (นางสาวภัททิรา สกุลวรวิทย์, นางสาวประภาพันธ์ คงแก้ว) อ.ที่ปรึกษา: นางสาวมัลลิกา วัฒนะ
+(2) ผจญภัยในโลกนิทาน (นางสาวพรกมล ฮอมณี, นายวัชรัตน์ ืทองสมบูรณ์, นางสาวดลนภา เจริญพรหมพงศ์) อ.ที่ปรึกษา: นางสาวชิตสุธา สุ่มเล็ก
+(3) สมาร์ทเช็ค (นายนพกร ถนอมเสียง, นายณัฐพงษ์ บุญร่วม, นางสาวทิชากร โพธิ์นรินทร์) อ.ที่ปรึกษา: นายสายยัญ สายยศ
+(4) ระบบเครื่องซักผ้าอัจฉริยะด้วยการประยุกต์ใช้ Internet of Things (นายรัชชานนท์ ชมภูบุตร, นายชัยยุทธ ตั้งขจรศักดิ์, นางสาวสุธีกานต์ แต้สกุล) อ.ที่ปรึกษา: นายสายยัญ สายยศ
+
+ 
+
+2. ผ่านได้รับทุนรอบสอง
+(1) ไม้เท้านำทางอัจฉริยะช่วยเหลือผู้พิการทางสายตา (นายพชร วีระภักดี, นายรณกร ขำเพชร) อ.ที่ปรึกษา: นายวชิราวุธ ธรรมวิเศษ
+(2) ผู้ตรวจสินค้าประจำโรงงาน (นางสาวณริสสา สงวนรังศิริกุล, นางสาวศยามล ตุงคะศิริ) อ.ที่ปรึกษา: นางอุรฉัตร โคแก้ว
+(3) แอปพลิเคชันการตรวจนับเซลล์เม็ดเลือดขาวบนระบบปฏิบัติการแอนดรอยด์ (นางสาววีรวรรณ โพร้งพนม, นางสาวศิญาภรณ์ กุศลผลิน) อ.ที่ปรึกษา: นายคำรณ สุนัติ
+(4) แอปพลิเคชันคำนวณเมทริกซ์โดยใช้หลักการประมวลผลภาพ (นายเฉลิม เพ็งพิศ, นายพฤกษาศิลป์ วงศ์ศรี) อ.ที่ปรึกษา: นางสาวสิลดา อินทรโสธรฉันท์
+(5) มิชชันซี : เกมปฏิบัติการพิทักษ์สวนสัตว์ (นายอนิรุธ ธรรมวิเศษ, นายปกรณ์ เพชรนุกูลเกียรติ) อ.ที่ปรึกษา: นางสาวชิตสุธา สุ่มเล็ก
+(6) โฮมฟอร์โฮมเรส: ระบบจัดการข้อมูลเพื่อคุ้มครองคนไร้ที่พึ่ง (นางสาวชนิกรรดา เอกวงค์ษา, นายวรัตถ์ ถิ่นทัพไทย) อ.ที่ปรึกษา: นางสาวสุมณฑา เกษมวิลาศ
+(7) อุปกรณ์แจ้งเตือนอาการง่วงนอนขณะขับรถโดยการตรวจจับดวงตา (นายชินพันธ์ จันทรักษา, นายอิทธิฤทธิ์ โพธิ์สุ) อ.ที่ปรึกษา: นายบุญทรัพย์ ไวคำ
+
+ 
+
+สำหรับการวันแข่งขันรอบชิงชนะเลิศมีกำหนดจัดขึ้น วันที่ 15-17 มี.ค. 2559 ณ หอประชุมมหิศร อาคาร SCB Park ธนาคารไทยพาณิชย์ จำกัด (มหาชน) สำนักงานใหญ่ ถ.รัชโยธิน กทม.
+---------------------------
+4.กิจกรรมบรรยายพิเศษ โครงการ “Smarter Cities Challenge”
+เมื่อวันเสาร์ที่ 9 พฤศจิกายน 2556 เวลา 09.00 น. เป็นต้นไป ณ ห้องประชุมภาควิชาวิทยาการคอมพิวเตอร์   อาคาร SC.06 ตามที่ บริษัท ไอ บี เอ็ม ประเทศไทย จำกัด กำหนดดำเนินโครงการ Smarter Cities Challenge ในพื้นที่จังหวัดขอนแก่น เพื่อทำงานร่วมกับเมืองที่มีความสำคัญทางเศรษฐกิจ ในการสร้างแผนยุทธศาสตร์การพัฒนาเมืองให้มีความทันสมัย และประชาชนมีคุณภาพชีวิตที่ดีอย่างยั่งยืน ทั้งนี้ได้กำหนดประเด็นที่จะดำเนินงาน จำนวน 2 ประเด็น ประกอบด้วย Smart Traffic and Public Safety และ Data Analytics Education Center นั้น เพื่อให้คณาจารย์ นักศึกษา และผู้สนใจได้รับความรู้ความเข้าใจเกี่ยวกับโครงการดังกล่าว ภาควิชาวิทยาการคอมพิวเตอร์ จึงจัดกิจกรรมบรรยายพิเศษ โครงการ “Smarter Cities Challenge”
+
+       โดยมีหัวข้อในการบรรยาย ดังนี้
+
+ “Introduction to IBM and Smarter Planet/Smarter Cities”  โดย Mr.Geraint Thomason
+
+“ Starting your professional career in IT ” โดย Mr.Rob Zabel
+
+“ Skills required for IT professional career” โดย Dr. Greg Kelaart Courtney
+
+“ Leadership skills building ” โดย Mr. Vinod Menon
+
+“ Working in a globally integrated enterprise” โดย Mr.Hance Huston"              
+---------------------------
+5.รศ.ดร.ศาสตรา วงศ์ธนวสุ ได้รับเชิญเป็น General Co-chairs
+รศ.ดร.ศาสตรา วงศ์ธนวสุ ได้รับเชิญเป็น General Co-chairs ในการประชุมวิชาการนานาชาติ 
+
+KST 2014 International Conference Jan 30 – 31,2014
+
+Website : http://kst.buu.ac.th/
+---------------------------
+6.รศ.ดร.ศาสตรา วงศ์ธนวสุ ได้รับเชิญเป็น Technical Conference Co-chair และ Invited speaker
+รศ.ดร.ศาสตรา วงศ์ธนวสุ ได้รับเชิญเป็น Technical Conference Co-chair และ Invited speaker ในการประชุมวิชาการนานาชาติ iEECON 2014 Intrenational Conferance on computer & it
+ระหว่างวันที่ 19 - 21 มีนาคม 2557 ที่เมืองพัทยา
+---------------------------
+7.ดร.คำรณ สุนัติ, ดร.วรารัตน์ รุ่งวรวุฒิ, ดร.สุมณฑา เกษมวิลาศ , ดร.สิลดา อินทรโสธรฉันท์ และ ผศ.ดร.จักรชัย โสอินทร์ และดร.สายยัญ สายยศ ได้รับเกียรติให้เป็น Session Chair ในการ ประชุมวิชาการ JCSSE 2013
+
+ดร.คำรณ สุนัติ, ดร.วรารัตน์ รุ่งวรวุฒิ, ดร.สุมณฑา เกษมวิลาศ , ดร.สิลดา อินทรโสธรฉันท์  และ
+ผศ.ดร.จักรชัย โสอินทร์ และดร.สายยัญ สายยศ ได้รับเกียรติให้เป็น Session Chair ในการ
+ประชุมวิชาการ  JCSSE 2013 (30-31 พฤษภาคม  2556)
+
+
+http://jcsse2013.msu.ac.th/
+---------------------------
+8.ดร. จักรชัย โสอินทร์ สังกัดกลุ่มวิจัย ANT (Applied Network Technology) และคณะผู้วิจัย ได้นำเผยแพร่ผลงานวิจัยในวารสารระดับนานาชาติ International Journal of Digital Content Technology and its Applications (JDCTA) (indexed by SCOPUS)
+ดร. จักรชัย โสอินทร์ อาจารย์ประจำ ภาควิชาวิทยาการคอมพิวเตอร์ ม.ขอนแก่น สังกัดกลุ่มวิจัย ANT (Applied Network Technology) และคณะผู้วิจัย ได้นำเผยแพร่ผลงานวิจัยในวารสารระดับนานาชาติ International Journal of Digital Content Technology and its Applications (JDCTA) (indexed by SCOPUS)
+
+                C. So-In, S. Poolsanguan, C. Poonriboon, K. Rujirakul and C. Phudphut, "Performance Evaluation of Parallel AES Implementations over CUDA GPU Framework," Int. J. of Digital Content Technology and its Applications, vol. 7, no. 5, pp. 501-511, 2013. โดยได้รับทุนสนับสนุน ทุนวิจัยภาควิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
+
+http://www.aicit.org/jdcta/home/index.html
+
+บทคัดย่อ
+
+-------------------------------------------------------------------------------------------------
+
+                With a high computational complexity of encryption algorithm, AES, especially for huge real-time data, GPU has recently offered an alternate computational system instead of a traditional CPU (thread), incurring a significant improvement in speeding up the computational intensive parallel data encryption in various aspects - tremendous number of processing cores and non-generic computational processing architecture design. NVIDIA has developed a generic GPU programming platform and programming model, CUDA; however, a traditional AES CUDA implementation does not specify efficient techniques to utilize the GPU parallelism. As a result, in this research, we evaluate the recent proposed parallel AES implementations over GPU. In addition, to avoid the frequent shared memory access, we offer the possibility to rearrange AES stages to utilize the AES parallelism resulting in a momentous improvement of encryption speed-up over traditional GPU, and especially CPU.
+---------------------------
+9.ดร. จักรชัย โสอินทร์ ได้เข้าร่วมประชุม และนำเสนอผลงานทางวิชาการ ในการประชุมวิชาการระดับนานาชาติ The 9th International Conference on Computing and Information Technology (IC2IT 2013) sponsored by Springer
+
+ดร. จักรชัย โสอินทร์ อาจารย์ประจำ ภาควิชาวิทยาการคอมพิวเตอร์ ม.ขอนแก่น สังกัดกลุ่มวิจัย ANT (Applied Network Technology) ได้เข้าร่วมประชุม และนำเสนอผลงานทางวิชาการ ในการประชุมวิชาการระดับนานาชาติ The 9th International Conference on Computing and Information Technology  (IC2IT 2013) sponsored by Springer
+
+                เรื่อง “Performance Evaluation of LEACH on Cluster Head Selection Techniques in Wireless Sensor Networks” โดยได้รับทุนสนับสนุน ทุนวิจัยที่สอดคล้องกับเป้าหมายของกลุ่มวิจัย 12 กลุ่ม (กองทุนพัฒนาและส่งเสริมด้านวิชาการ) คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
+
+C. So-In, K. Udompongsuk, C. Phudphut, K. Rujirakul and C. Khunboa, "Performance Evaluation of LEACH on Cluster Head Selection Techniques in Wireless Sensor Networks," in Proc. Int. Conf. on Computing and Information Technology, pp. 51-61, May 2013.
+
+                โดยการประชุมระดับนานาชาติจัดขึ้นระหว่างวันที่ 9-10 พฤษภาคม 2556 โดยมีมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือเป็นเจ้าภาพ http://www.ic2it.org/
+
+ 
+
+บทคัดย่อ
+
+-------------------------------------------------------------------------------------------------
+
+            Toward the advances of wireless sensor technology have allowed users/administrators to simply and accurately monitor a characteristic and a behavior of remote environment including automatic event trigger. Due to the fact that the limitation of energy resource of sensor nodes, any events should be aware of this constrain, and so dividing the nodes to perform a particular task, or network clustering, is necessary to prolong the network system lifetime. Thus, in this paper, we evaluate the performance of a variety of LEACH optimization techniques, especially on the clustering criteria to select a proper set of cluster heads. Finally, to improve the probability of the selected nodes, we also propose the use of moving energy window average into an energy factor computation resulting into an improvement of the system energy usage.
+---------------------------
+10.ดร. จักรชัย โสอินทร์ และคณะได้แต่งหนังสือ คู่มือพัฒนาแอพพลิเคชัน Android อย่างมืออาชีพ
+
+ดร. จักรชัย โสอินทร์ และคณะได้แต่งหนังสือ  คู่มือพัฒนาแอพพลิเคชัน Android อย่างมืออาชีพ
+
+จัดพิมพ์โดย สำนักพิมพ์ Infopress จัดจำหน่ายโดย บ.ไอดีซี พรีเมียร์ จำกัด
+
+ดร. จักรชัย โสอินทร์ และนักศึกษา นายพงษ์ศธร จันทร์ยอย และนางสาวณัฐณิชา วีระมงคลเลิศ ได้แต่งหนังสือ คู่มือพัฒนาแอพพลิเคชัน Android อย่างมืออาชีพ จัดพิมพ์โดย สำนักพิมพ์ Inforpress จัดจำหน่ายโดย บ.ไอดีซี พรีเมียร์ จำกัด, ISBN 978-616-200-320-2 จำนวน 352 หน้า พฤศจิกายน 2555 โดยเป็นหนังสือภาษาไทยฉบับสมบูรณ์ สำหรับนักเรียนนักศึกษา และผู้สนใจทั่วไปพัฒนาโปรแกรมบนแอนดรอยด์ และยังใช้เป็นหนังสืออ้างอิงหลักในรายวิชา Wireless and Mobile Communication Networks และ Mobile and Networking Technology อีกด้วย
+
+http://www.infopress.co.th/product_detail.php?pr_id=0000001127
+---------------------------
+
